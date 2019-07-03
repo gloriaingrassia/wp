@@ -1,3 +1,4 @@
+<?php
 /**
  * Custom post navigation with thumbnails
  *
